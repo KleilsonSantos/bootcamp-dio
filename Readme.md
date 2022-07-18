@@ -8,7 +8,6 @@ Repositório criado para o desafio do Projeto.
  <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge"/>
  
 > Status do Projeto: :heavy_check_mark: :warning: (Finalizado)
-markuplanguage
 ...
   
 ## Links Úteis
