@@ -8,14 +8,12 @@ Repositório criado para o desafio do Projeto.
  <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge"/>
  
 > Status do Projeto: :heavy_check_mark: :warning: (Finalizado)
-...
   
 ## Links Úteis
 - [W3C - HTML](https://www.w3schools.com/html/default.asp)
 - [W3C - CSS](https://www.w3schools.com/css/default.asp)
 - [BootStrap 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-...
 
 ## O que é CSS?
 - CSS significa Cascading Style Sheets
@@ -23,7 +21,6 @@ Repositório criado para o desafio do Projeto.
 - CSS economiza muito trabalho. Ele pode controlar o layout de várias páginas da web de uma só vez
 - As folhas de estilo externas são armazenadas em arquivos CSS
 
-...
 
 ## O que é HTML?
 - HTML significa Hyper Text Markup Language
@@ -33,4 +30,3 @@ Repositório criado para o desafio do Projeto.
 - Elementos HTML informam ao navegador como exibir o conteúdo
 - Elementos HTML rotulam partes do conteúdo como "este é um título", "este é um parágrafo", "este é um link", etc.
 
-...
